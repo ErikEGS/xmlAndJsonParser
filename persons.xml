@@ -1,0 +1,29 @@
+<root>
+  <name>Test file</name>
+  <persons>
+    <person>
+      <id>1</id>
+      <name>Erik</name>
+      <lastName>Harutyunyan</lastName>
+      <age>23</age>
+    </person>
+    <person>
+      <id>2</id>
+      <name>Aram</name>
+      <lastName>Beglaryan</lastName>
+      <age>27</age>
+    </person>
+    <person>
+      <id>3</id>
+      <name>Bagrat</name>
+      <lastName>Simonyan</lastName>
+      <age>25</age>
+    </person>
+    <person>
+      <id>4</id>
+      <name>Max</name>
+      <lastName>Qotanjyan</lastName>
+      <age>26</age>
+    </person>
+  </persons>
+</root>

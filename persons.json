@@ -1,0 +1,29 @@
+{
+  "name": "Test file",
+  "person": [
+    {
+      "id": 1,
+      "name": "Erik",
+      "lastName": "Harutyunyan",
+      "age": 23
+    },
+    {
+      "id": 2,
+      "name": "Aram",
+      "lastName": "Beglaryan",
+      "age": 27
+    },
+    {
+      "id": 3,
+      "name": "Bagrat",
+      "lastName": "Simonyan",
+      "age": 25
+    },
+    {
+      "id": 4,
+      "name": "Max",
+      "lastName": "Qotanjyan",
+      "age": 26
+    }
+  ]
+}
